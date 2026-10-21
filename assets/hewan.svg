@@ -1,0 +1,41 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220">
+  <rect width="600" height="220" rx="28" fill="#DDF7E8"/>
+  <circle cx="80" cy="40" r="24" fill="#FFF1A8"/>
+  <path d="M0 175 Q130 125 260 175 T600 165 V220 H0Z" fill="#A8E6A1"/>
+  <g transform="translate(30 40)">
+    <circle cx="55" cy="25" r="25" fill="#F4A261"/>
+    <circle cx="125" cy="25" r="25" fill="#F4A261"/>
+    <circle cx="90" cy="70" r="65" fill="#F4A261"/>
+    <ellipse cx="90" cy="92" rx="40" ry="30" fill="#FFF0D8"/>
+    <circle cx="70" cy="68" r="7" fill="#352B25"/>
+    <circle cx="110" cy="68" r="7" fill="#352B25"/>
+    <ellipse cx="90" cy="86" rx="7" ry="5" fill="#352B25"/>
+    <path d="M80 96 Q90 108 100 96" fill="none" stroke="#352B25" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="58" cy="86" r="8" fill="#F28B82"/>
+    <circle cx="122" cy="86" r="8" fill="#F28B82"/>
+  </g>
+  <g transform="translate(215 45)">
+    <circle cx="40" cy="25" r="25" fill="#FFF"/>
+    <circle cx="110" cy="25" r="25" fill="#FFF"/>
+    <circle cx="75" cy="70" r="65" fill="#FFF"/>
+    <ellipse cx="52" cy="65" rx="18" ry="24" fill="#333"/>
+    <ellipse cx="98" cy="65" rx="18" ry="24" fill="#333"/>
+    <circle cx="52" cy="65" r="7" fill="#FFF"/>
+    <circle cx="98" cy="65" r="7" fill="#FFF"/>
+    <ellipse cx="75" cy="88" rx="10" ry="7" fill="#333"/>
+    <path d="M64 100 Q75 111 86 100" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(415 55)">
+    <path d="M20 45 L5 0 L50 25 M100 25 L145 0 L130 45" fill="#F5C6D6" stroke="#D989A8" stroke-width="4" stroke-linejoin="round"/>
+    <circle cx="75" cy="75" r="60" fill="#FFF8F0"/>
+    <circle cx="55" cy="68" r="6" fill="#47352E"/>
+    <circle cx="95" cy="68" r="6" fill="#47352E"/>
+    <ellipse cx="75" cy="85" rx="8" ry="6" fill="#F28B82"/>
+    <path d="M65 96 Q75 106 85 96" fill="none" stroke="#47352E" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="43" cy="85" r="8" fill="#F6C1C1"/>
+    <circle cx="107" cy="85" r="8" fill="#F6C1C1"/>
+  </g>
+  <text x="300" y="205" font-family="Arial,sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#236747">Belajar seru bersama teman hewan!</text>
+</svg>
+      
