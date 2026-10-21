@@ -1,0 +1,14 @@
+{
+  "name": "Teman Pintar — Belajar Gratis",
+  "short_name": "Teman Pintar",
+  "description": "Ruang belajar gratis untuk anak SD dan SMP.",
+  "lang": "id-ID",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7faf6",
+  "theme_color": "#256b52",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
